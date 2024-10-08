@@ -1,4 +1,4 @@
-package HashTable;
+package Maps;
 import java.util.*;;
 
 public class TableWithChaining {
@@ -16,6 +16,7 @@ public class TableWithChaining {
 
     }
 
+    @SuppressWarnings("unchecked")
     public TableWithChaining(int size){
         this.size = size;
         Table = new LinkedList[size];

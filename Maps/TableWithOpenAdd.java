@@ -1,4 +1,4 @@
-package HashTable;
+package Maps;
 
 public class TableWithOpenAdd {
     int size;
