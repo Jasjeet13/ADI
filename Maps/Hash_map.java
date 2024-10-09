@@ -25,6 +25,9 @@ public class Hash_map {
         // -> Worst case : O(n)
         System.out.println("Value present at key 1: " + map.get(1));
 
+        // WE CAN USE getOrDefault IN CASES WHERE WE WANT TO GIVE A DEFUALT VALUE WHEN THE KEY DOESNOT EXIS
+        
+
         // CHECKING IF A KEY IS PRESENT IN THE HASHMAP [containsKey]
         // -> Average TC : O(1)
         // -> Worst case : O(n)
