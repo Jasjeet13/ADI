@@ -1,4 +1,4 @@
-package Maps;
+// package Maps;
 import java.util.*;
 
 public class Hash_map {

@@ -1,4 +1,4 @@
-package Maps;
+// package Maps;
 
 public class TableWithOpenAdd {
     int size;
