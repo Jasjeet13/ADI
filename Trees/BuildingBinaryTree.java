@@ -17,24 +17,24 @@
 //     }
 
 //     public static Node createBinaryTree(){
-//        Node root = null;
-//        Scanner sc = new Scanner(System.in);
-//        System.out.println(" -> Enter value: ");
-//        int data = sc.nextInt();
+    //    Node root = null;
+    //    Scanner sc = new Scanner(System.in);
+    //    System.out.println(" -> Enter value: ");
+    //    int data = sc.nextInt();
 
-//        if(data == -1){
-//         return null;
-//        }
+    //    if(data == -1){
+    //     return null;
+    //    }
 
-//        root = new Node(data);
+    //    root = new Node(data);
 
-//        System.out.println("Enter value for the left child of " + root.data);
-//        root.left = createBinaryTree();
+    //    System.out.println("Enter value for the left child of " + root.data);
+    //    root.left = createBinaryTree();
 
-//        System.out.println("Enter value for the right child of " + root.data);
-//        root.right = createBinaryTree();
+    //    System.out.println("Enter value for the right child of " + root.data);
+    //    root.right = createBinaryTree();
 
-//        return root;
+    //    return root;
 
 
 
